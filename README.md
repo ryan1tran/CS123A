@@ -1,3 +1,10 @@
+# MyMSA                                     
+MyMSA is a multiple sequence alignment algorithm that tries its best to compete   
+against its professional counterparts (with varying levels of success)!   
+   
+Built entirely in C++, MyMSA is implemented using Smith-Waterman, a dynamic   
+programming local alignment algorithm that is similar to Needleman-Wunsch.   
+
 ## Information
 This project contains two directories:   
 	- source   
