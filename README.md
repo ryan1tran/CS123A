@@ -5,6 +5,8 @@ against its professional counterparts (with varying levels of success)!
 Built entirely in C++, MyMSA is implemented using Smith-Waterman, a dynamic   
 programming local alignment algorithm that is similar to Needleman-Wunsch.   
 
+[Here is the link to the paper that utilizes this program.](https://docs.google.com/document/d/1TNdaqkgS9CMkeoG80-Iuz8-3moFuXdYUV8RzHfLvTpE/edit?usp=sharing "Bioinformatics Paper")
+
 ## Information
 This project contains two directories:   
 	- source   
